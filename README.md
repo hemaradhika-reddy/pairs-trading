@@ -4,7 +4,7 @@
 Implement a market-neutral pairs trading strategy using cointegration and mean-reversion.
 
 ## Data
-- Source: Yahoo Finance via `yfinance` API
+- Source: Yahoo Finance data  via `yfinance` API
 - Stocks: RELIANCE & ONGC
 - Period: 2018–2024
 - Frequency: Daily Adjusted Close
